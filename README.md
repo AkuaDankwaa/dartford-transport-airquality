@@ -30,8 +30,6 @@ Additional datasets (e.g. road networks, deprivation indices) may be incorporate
 
 ## Repository Structure
 
-## Repository Structure
-
     dartford-transport-airquality/
     │
     ├── notebooks/
@@ -39,11 +37,13 @@ Additional datasets (e.g. road networks, deprivation indices) may be incorporate
     │
     ├── data/
     │   ├── raw/
-    │   │   └── dartford_boundary.geojson
+    │   │   └── dartford_boundary/
+    │   │       └── dartford_boundary.geojson
     │   └── processed/
     │       └── bus_stops_dartford_clean.geojson
     │
     └── README.md
+
 
 
 
